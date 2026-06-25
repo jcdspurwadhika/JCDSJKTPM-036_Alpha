@@ -6,6 +6,7 @@ Proyek data science untuk memprediksi churn pelanggan telekomunikasi menggunakan
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fintelchurnpredictionapp-01.streamlit.app/)
 [![Tableau Dashboard](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/akbar.kanugraha/viz/Fintel_Dashboard/Dashboard1?publish=yes)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-Notebook-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1eUxvDvcAAxxCWXbB3FBUoSoLx6EwCEPF?usp=sharing)
 
 **Kelompok A**
 
@@ -118,6 +119,14 @@ Berdasarkan analisis bisnis:
 
 Dashboard juga menampilkan breakdown pendapatan tertinggi per kota, distribusi churn berdasarkan jumlah add-on, dan pola churn berdasarkan masa berlangganan.
 
+---
+## Notebook
+
+Notebook lengkap berisi EDA, preprocessing, modeling, evaluasi, dan analisis SHAP tersedia di Google Drive:
+
+[Buka Notebook di Google Drive](https://drive.google.com/drive/folders/1eUxvDvcAAxxCWXbB3FBUoSoLx6EwCEPF?usp=sharing)
+
+> Notebook tidak diupload langsung ke repository karena ukuran file yang besar akibat output visualisasi.
 ---
 ## Dashboard
 

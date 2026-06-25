@@ -8,7 +8,7 @@ Proyek data science untuk memprediksi churn pelanggan telekomunikasi menggunakan
 [![Tableau Dashboard](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/akbar.kanugraha/viz/Fintel_Dashboard/Dashboard1?publish=yes)
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-Notebook-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1eUxvDvcAAxxCWXbB3FBUoSoLx6EwCEPF?usp=sharing)
 
-**Kelompok A**
+**Kelompok Alpha**
 
 **Anggota:** Akbar Kanugraha · Khaerun Nisa'Tri Safaati · Indira Faisa Afgani
 

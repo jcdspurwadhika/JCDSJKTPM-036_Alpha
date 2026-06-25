@@ -37,7 +37,7 @@ Dataset yang digunakan adalah **Telco Customer Churn – IBM Dataset**, dengan r
 | Atribut | Detail |
 |---|---|
 | Jumlah Data | 7.032 pelanggan |
-| Jumlah Fitur (awal) | 33 fitur |
+| Jumlah Fitur (awal) | 31 fitur |
 | Fitur yang Digunakan | 20 fitur (setelah seleksi SelectKBest, ANOVA F, k=20) |
 | Target Variable | `Churn Label` (Yes / No) |
 | Tingkat Churn | ±26,58% |

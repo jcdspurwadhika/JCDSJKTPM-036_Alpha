@@ -5,6 +5,7 @@
 Proyek data science untuk memprediksi churn pelanggan telekomunikasi menggunakan machine learning, dilengkapi dengan segmentasi risiko dan rekomendasi retensi yang dipersonalisasi.
 
 **Kelompok A**
+
 **Anggota:** Akbar Kanugraha · Khaerun Nisa'Tri Safaati · Indira Faisa Afgani
 
 ---

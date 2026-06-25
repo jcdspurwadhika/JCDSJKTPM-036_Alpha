@@ -119,9 +119,6 @@ Berdasarkan analisis bisnis:
 Dashboard juga menampilkan breakdown pendapatan tertinggi per kota, distribusi churn berdasarkan jumlah add-on, dan pola churn berdasarkan masa berlangganan.
 
 ---
-
-## Dashboard
-
 ## Dashboard
 
 Dashboard interaktif dibangun menggunakan Tableau Public untuk memberikan gambaran menyeluruh tentang kondisi churn pelanggan di California. Tersedia filter berdasarkan metode pembayaran, jenis kontrak, layanan internet, dan layanan telepon.

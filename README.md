@@ -4,6 +4,9 @@
 
 Proyek data science untuk memprediksi churn pelanggan telekomunikasi menggunakan machine learning, dilengkapi dengan segmentasi risiko dan rekomendasi retensi yang dipersonalisasi.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fintelchurnpredictionapp-01.streamlit.app/)
+[![Tableau Dashboard](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/akbar.kanugraha/viz/Fintel_Dashboard/Dashboard1?publish=yes)
+
 **Kelompok A**
 
 **Anggota:** Akbar Kanugraha · Khaerun Nisa'Tri Safaati · Indira Faisa Afgani

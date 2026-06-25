@@ -4,6 +4,9 @@
 
 Proyek data science untuk memprediksi churn pelanggan telekomunikasi menggunakan machine learning, dilengkapi dengan segmentasi risiko dan rekomendasi retensi yang dipersonalisasi.
 
+**Kelompok A**
+**Anggota:** Akbar Kanugraha · Khaerun Nisa'Tri Safaati · Indira Faisa Afgani
+
 ---
 
 ## Latar Belakang
@@ -115,15 +118,26 @@ Dashboard juga menampilkan breakdown pendapatan tertinggi per kota, distribusi c
 
 ## Dashboard
 
-Dashboard interaktif dibangun untuk memberikan gambaran menyeluruh tentang kondisi churn pelanggan. Tersedia filter berdasarkan metode pembayaran, jenis kontrak, layanan internet, dan layanan telepon.
+## Dashboard
 
-Insight yang dapat diperoleh dari dashboard:
+Dashboard interaktif dibangun menggunakan Tableau Public untuk memberikan gambaran menyeluruh tentang kondisi churn pelanggan di California. Tersedia filter berdasarkan metode pembayaran, jenis kontrak, layanan internet, dan layanan telepon.
+
+KPI utama yang ditampilkan:
+- **Total Pelanggan**: 7,032
+- **Tingkat Churn**: 26.58%
+- **Median Biaya Bulanan**: $70
+- **Pendapatan Risiko Hilang**: $139K
+
+Insight yang dapat diperoleh:
 - Peta sebaran tingkat churn per kota di California
-- Kota dengan pendapatan tertinggi
-- Pola churn berdasarkan masa berlangganan (tenure)
+- Kota dengan pendapatan tertinggi (Los Angeles, San Diego, San Jose, Sacramento, San Francisco)
+- Pola churn berdasarkan masa berlangganan — churn rate tertinggi di awal tenure
 - Distribusi churn berdasarkan jumlah add-on
-- Alasan utama pelanggan churn (berdasarkan data survei)
+- Alasan utama pelanggan churn (attitude of support person, competitor offered higher download speed, dll.)
 - Komposisi kontrak, layanan internet, layanan telepon, dan metode pembayaran
+
+**Akses Dashboard Tableau:**  
+[🔗 FINTel Dashboard — Tableau Public](https://public.tableau.com/app/profile/akbar.kanugraha/viz/Fintel_Dashboard/Dashboard1?publish=yes)
 
 **Screenshot Dashboard:**
 
@@ -229,5 +243,3 @@ Beberapa hal yang bisa dikembangkan lebih lanjut:
 - **A/B Testing** — Mengukur efektivitas rekomendasi retensi yang dihasilkan model terhadap pelanggan yang benar-benar diintervensi
 
 ---
-
-*Dibuat oleh Akbar Kanugraha · Khaerun Nisa'Tri Safaati · Indira Faisa Afgani*

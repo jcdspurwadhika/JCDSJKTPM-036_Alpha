@@ -140,10 +140,6 @@ Insight yang dapat diperoleh:
 **Akses Dashboard Tableau:**  
 [🔗 FINTel Dashboard — Tableau Public](https://public.tableau.com/app/profile/akbar.kanugraha/viz/Fintel_Dashboard/Dashboard1?publish=yes)
 
-**Screenshot Dashboard:**
-
-![FINTel Dashboard](assets/screenshot_dashboard.png)
-
 ---
 
 ## Aplikasi Streamlit
@@ -161,10 +157,6 @@ Untuk setiap prediksi, aplikasi menampilkan:
 - Segmentasi risiko (Rendah / Sedang / Tinggi)
 - Top-3 fitur pendorong churn berdasarkan SHAP
 - Rekomendasi retensi yang dipersonalisasi
-
-**Screenshot Aplikasi:**
-
-![FINTel Streamlit App](assets/screenshot_app.png)
 
 ---
 
